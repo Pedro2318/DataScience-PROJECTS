@@ -1,4 +1,4 @@
-# DataCamp-PROJECT
+# DataCamp-PROJECTS
 
 PROJECT:
 
