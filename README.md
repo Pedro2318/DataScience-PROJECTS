@@ -17,7 +17,7 @@ Mechatronics engineer graduated at Poli-USP, doing a master's degree in Lasers a
 
 
 ## DataCamp-PROJECTS:
-Veja os tutoriais publicados do Sigmoidal:
+See published solutions for DataCamp activities:
 
 * **-The Android App Market on Google Play:** 
 * **-A Visual History of Nobel Prize Winners:** 
