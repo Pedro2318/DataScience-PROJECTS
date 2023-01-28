@@ -18,7 +18,7 @@ Mechatronics engineer graduated at Poli-USP, doing a master's degree in Lasers a
 
 ## DATA SCIENCE COURSES:
 
-* **-PMR3508-2018---Machine Learning and Pattern Recognition:** 
+* **-PMR3508-2018---Machine Learning and Pattern Recognition by Engineering School of the University of São Paulo:** 
 
 https://github.com/Pedro2318/PMR3508---2018
 
