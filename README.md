@@ -19,7 +19,7 @@ Mechatronics engineer graduated at Poli-USP, doing a master's degree in Lasers a
 
 * **-Data Analysis of Airbnb dataset:Which city, Barcelona or Madrid, would be the most profitable location to invest in?** 
 
-https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/
+https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/Entrega_1_PEDRO_BERNARDO_DOS_SANTOS_MELO.ipynb
 
 
 ## DATA SCIENCE COURSES:
