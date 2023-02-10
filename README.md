@@ -15,6 +15,12 @@ Mechatronics engineer graduated at Poli-USP, doing a master's degree in Lasers a
 * [LinkedIn](https://www.linkedin.com/in/pedro-bernardo-dos-santos-melo-568673261)
 * [Kaggle](https://www.kaggle.com/pedrobernardo)
 
+## Sigmoidal.ai-PROJECTS:
+
+* **-Data Analysis of Airbnb dataset:Which city, Barcelona or Madrid, would be the most profitable location to invest in?** 
+
+https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/
+
 
 ## DATA SCIENCE COURSES:
 
