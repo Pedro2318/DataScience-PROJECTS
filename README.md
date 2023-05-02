@@ -36,6 +36,14 @@ https://github.com/Pedro2318/Introduction-to-Data-Science-in-Python-assignments
 ## DataCamp-PROJECTS:
 See published solutions for DataCamp activities:
 
+* **-Risk and Returns: The Sharpe Ratio:** 
+
+https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/Risk%20and%20Returns%20The%20Sharpe%20Ratio.ipynb
+
+* **-Predicting Credit Card Approvals:** 
+
+https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/Predicting%20Credit%20Card%20Approvals.ipynb
+
 * **-The Android App Market on Google Play:** 
 
 https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/The_Android_App_Market_on_Google_Play.ipynb
