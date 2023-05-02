@@ -15,23 +15,6 @@ Mechatronics engineer graduated at Poli-USP, doing a master's degree in Lasers a
 * [LinkedIn](https://www.linkedin.com/in/pedro-bernardo-dos-santos-melo-568673261)
 * [Kaggle](https://www.kaggle.com/pedrobernardo)
 
-## Sigmoidal.ai-PROJECTS:
-
-* **-Data Analysis of Airbnb dataset:Which city, Barcelona or Madrid, would be the most profitable location to invest in?** 
-
-https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/Entrega_1_PEDRO_BERNARDO_DOS_SANTOS_MELO.ipynb
-
-
-## DATA SCIENCE COURSES:
-
-* **-PMR3508-2018---Machine Learning and Pattern Recognition by Engineering School of the University of São Paulo:** 
-
-https://github.com/Pedro2318/PMR3508---2018
-
-* **-Introduction to Data Science in Python by University of Michigan:** 
-
-https://github.com/Pedro2318/Introduction-to-Data-Science-in-Python-assignments
-
 
 ## DataCamp-PROJECTS:
 See published solutions for DataCamp activities:
@@ -51,5 +34,24 @@ https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/The_Android_App_Market_
 * **-A Visual History of Nobel Prize Winners:** 
 
 https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/A_Visual_History_of_Nobel_Prize_Winners.ipynb
+
+
+## DATA SCIENCE COURSES:
+
+* **-PMR3508-2018---Machine Learning and Pattern Recognition by Engineering School of the University of São Paulo:** 
+
+https://github.com/Pedro2318/PMR3508---2018
+
+* **-Introduction to Data Science in Python by University of Michigan:** 
+
+https://github.com/Pedro2318/Introduction-to-Data-Science-in-Python-assignments
+
+
+## Sigmoidal.ai-PROJECTS:
+
+* **-Data Analysis of Airbnb dataset:Which city, Barcelona or Madrid, would be the most profitable location to invest in?** 
+
+https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/Entrega_1_PEDRO_BERNARDO_DOS_SANTOS_MELO.ipynb
+
 
 ---
