@@ -43,7 +43,8 @@ https://github.com/Pedro2318/DataCamp-PROJECTS/blob/main/A_Visual_History_of_Nob
 https://github.com/Pedro2318/PMR3508---2018
 
 * **-1) Introduction to Data Science in Python by University of Michigan:** 
-* **-2)Applied Plotting, Charting & Data Representation in Python by University of Michigan:** 
+* **-2) Applied Plotting, Charting & Data Representation in Python by University of Michigan:** 
+* **-3) Applied Machine Learning in Python by University of Michigan:** 
 
 https://github.com/Pedro2318/Introduction-to-Data-Science-in-Python-assignments
 
